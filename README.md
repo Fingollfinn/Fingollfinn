@@ -6,14 +6,14 @@ Je suis spécialisé dans le traitement de la donnée et le développement. Mon 
 
 * 🔭 **Actuellement :** Étudiant en BUT Science des Données à l'IUT2 de Grenoble-Alpes.
 * 🎯 **Objectif :** À la recherche d'une alternance d'un an dans la Data, l'IA ou le développement logiciel.
-* 🌱 **Focus technique :** Conception de pipelines ETL, typage strict et tests automatisés[cite: 1].
+* 🌱 **Focus technique :** Conception de pipelines ETL, typage strict et tests automatisés.
 * 🐧 **Système :** Intéressé par l'écosystème Linux, je maintiens et documente mes configurations (*dotfiles*) sous CachyOS et Hyprland.
 
 ## 🛠️ Technologies & Outils
 
-* **Data & Algorithmique :** Python, R (tidyverse), SQL, web scraping[cite: 1].
-* **Architecture & DevOps :** Docker, pytest, Git / GitLab[cite: 1].
-* **Web :** HTML, CSS, JavaScript[cite: 1].
+* **Data & Algorithmique :** Python, R (tidyverse), SQL, web scraping.
+* **Architecture & DevOps :** Docker, pytest, Git / GitLab.
+* **Web :** HTML, CSS, JavaScript.
 
 ## 📬 Me contacter
 
